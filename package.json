@@ -20,6 +20,7 @@
   "homepage": "https://github.com/IAmRC1/node-express-course#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.3"
   }
 }
